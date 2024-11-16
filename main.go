@@ -11,11 +11,15 @@ import (
 
 func main() {
 	catchCrash()
-	err := modUtility.Utility_Initialize()
+	var err error = nil
+	// {{$UTILITY}}
+	err = modUtility.Utility_Initialize()
 	if err != nil {
 		fmt.Println("utility init error: ", err)
 		return
 	}
+	// {{$UTILITY_END}}
+
 	// {{$STARTFIRSTLOG}}
 	modUtility.Utility_writeStartLog()
 	// {{$STARTFIRSTLOG_END}}
