@@ -1,0 +1,6 @@
+github.com/gatlinglab/libgatlingconfig v0.0.7 h1:nlnFcpmH68Ka5TY3FCqodG8INxsWZRDGr407HOoA7+M=
+github.com/gatlinglab/libgatlingconfig v0.0.7/go.mod h1:+Ak+yuiYnFkU8Nj6G5ykpqYN/KDzEp6aHoPlIJY8xvk=
+github.com/gatlinglab/libgatlinglog v0.0.0-20240614082805-dcabb2c4e38e h1:iXg3Zx3lWMS2O58WK19lQIMd+Cusde6mDRCgSgJfEZg=
+github.com/gatlinglab/libgatlinglog v0.0.0-20240614082805-dcabb2c4e38e/go.mod h1:H57BZGhsNfwAuyG3jDYT8LLzGiH94mfwheVD+TCJZHw=
+github.com/go-chi/chi/v5 v5.1.0 h1:acVI1TYaD+hhedDJ3r54HyA6sExp3HfXq7QWEEY/xMw=
+github.com/go-chi/chi/v5 v5.1.0/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
